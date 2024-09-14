@@ -11,7 +11,7 @@
 
 # Skills:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslon1213&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azya50&show_icons=true&theme=radical)
 
 # Languages
 
